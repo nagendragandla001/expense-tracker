@@ -16,6 +16,8 @@ So what extactly it do is it makes an API calls through browser.
 
 ## Flow Diagram
 
+![alt text](https://github.com/nagendragandla001/expense-tracker/blob/main/public/expense-tracker.png?raw=true)
+
 ## Available Scripts
 
 In the project directory, you can run:
