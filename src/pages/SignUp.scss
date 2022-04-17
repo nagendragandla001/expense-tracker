@@ -1,0 +1,11 @@
+.otp-container {
+    & input {
+        height: 3rem;
+        width: 3rem !important;
+        margin: 0 1rem;
+        border: 1px solid grey;
+        border-radius: 4px;
+        font-size: 14px;
+        color: black;
+    } 
+}
