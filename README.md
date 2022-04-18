@@ -11,7 +11,7 @@ Expense Tracker is a web application to track all expenses. Hence we can add an 
 
 ## Used Moesif CORS for CORS whitelisting
 
-I have done development on local server, While integrating with backend APIs i have faced CORS issue. Hence used the Moesif CORS extemsion to whiltelist the APIs.
+I have done development on local server, While integrating with backend APIs i have faced CORS issue. Hence used the Moesif CORS extension to whiltelist the APIs.
 So what extactly it do is it makes an API calls through browser.
 
 ## Flow Diagram
